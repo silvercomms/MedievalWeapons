@@ -35,7 +35,6 @@
     "client.ClientLivingEntityMixin",
     "client.ItemRendererMixin",
     "client.MinecraftClientMixin",
-    "client.InGameHudMixin",
     "client.GameRendererMixin",
     "client.DrawContextMixin",
     "client.PersistentProjectileEntityAccessor"
