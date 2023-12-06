@@ -25,7 +25,7 @@ public class CompatItems {
     public static Boolean isBetterNetherLoaded = fabricLoader.isModLoaded("betternether");
     public static Boolean isMythicMetalsLoaded = fabricLoader.isModLoaded("mythicmetals");
     public static Boolean isParadiseLostLoaded = fabricLoader.isModLoaded("paradise_lost");
-    public static Boolean isBYGLoaded = fabricLoader.isModLoaded("byg");
+    public static Boolean isBYGLoaded = false;
     public static Boolean isAdditionalAdditionsLoaded = fabricLoader.isModLoaded("additionaladditions");
     public static Boolean isMythicUpgradesLoaded = fabricLoader.isModLoaded("mythicupgrades");
     public static Boolean isDeeperDarkerLoaded = fabricLoader.isModLoaded("deeperdarker");
